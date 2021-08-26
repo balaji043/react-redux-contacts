@@ -1,0 +1,34 @@
+.Contacts {
+}
+.SideNav {
+	height: 100%;
+	width: 200px;
+	position: fixed;
+	z-index: 1;
+	top: 0;
+	left: 0;
+	background-color: cadetblue;
+	overflow-x: hidden;
+	color: aliceblue;
+}
+.Content {
+	margin-left: 200px;
+	padding: 5px;
+}
+.Top {
+	height: 60px;
+	background-color: aquamarine;
+	display: flex;
+	align-items: center;
+	justify-content: flex-end;
+	margin: 5px;
+	padding: 5px;
+}
+.Center {
+	margin-top: 60px;
+	margin: 5px;
+	padding: 5px;
+}
+button {
+	margin: 3px;
+}
